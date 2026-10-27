@@ -1,6 +1,6 @@
 {
-  "versionName": "1.4",
-  "versionCode": 14,
+  "versionName": "1.5",
+  "versionCode": 15,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Arreglo del error 'Muxer error' al exportar: la app reintenta sola con otro método y, si falla, muestra el código exacto del error."
+  "notes": "Exportación nueva: más rápida y sin trabarse (voz e imagen se procesan por separado), barra de progreso, calidad Rápida 720p o Alta 1080p y pantalla encendida mientras exporta."
 }
