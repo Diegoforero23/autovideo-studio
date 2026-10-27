@@ -1,1 +1,6 @@
-{"versionName":"0.7","versionCode":7,"apk":"","notes":""}
+{
+  "versionName": "0.8",
+  "versionCode": 8,
+  "apk": "AutoVideoStudioAI.apk",
+  "notes": "Actualización automática desde la app, código de activación y Gemini con reintentos."
+}
