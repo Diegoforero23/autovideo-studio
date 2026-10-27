@@ -1,6 +1,6 @@
 {
-  "versionName": "1.5",
-  "versionCode": 15,
+  "versionName": "1.6",
+  "versionCode": 16,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Exportación nueva: más rápida y sin trabarse (voz e imagen se procesan por separado), barra de progreso, calidad Rápida 720p o Alta 1080p y pantalla encendida mientras exporta."
+  "notes": "El video exportado sale siempre vertical 9:16. La IA ahora ve el video completo (con su audio y texto en pantalla), entiende de qué trata y enseña según eso, no solo pasos de elaboración."
 }
