@@ -1,6 +1,6 @@
 {
-  "versionName": "1.2",
-  "versionCode": 12,
+  "versionName": "1.3",
+  "versionCode": 13,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "La IA revisa cada clip: si sirve, qué pasos se ven, qué tipo de video conviene (paso a paso, errores, consejos, curiosidad, resultado) y a qué velocidad ponerlo. Guiones con instrucciones claras y en orden."
+  "notes": "Arreglo: la narración ya no muestra el texto técnico de la IA. Si la respuesta llega incompleta, la app la rescata o reintenta sola."
 }
