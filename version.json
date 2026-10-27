@@ -1,6 +1,6 @@
 {
-  "versionName": "0.8",
-  "versionCode": 8,
+  "versionName": "0.9",
+  "versionCode": 9,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Actualización automática desde la app, código de activación y Gemini con reintentos."
+  "notes": "Descarga tus videos de TikTok pegando el enlace o desde Compartir › AutoVideo Studio."
 }
