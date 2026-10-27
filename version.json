@@ -1,6 +1,6 @@
 {
-  "versionName": "1.1",
-  "versionCode": 11,
+  "versionName": "1.2",
+  "versionCode": 12,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Busca y escucha voces de Fish Audio (populares en español y las tuyas). Nuevo botón ▶ Ver para revisar el video terminado dentro de la app."
+  "notes": "La IA revisa cada clip: si sirve, qué pasos se ven, qué tipo de video conviene (paso a paso, errores, consejos, curiosidad, resultado) y a qué velocidad ponerlo. Guiones con instrucciones claras y en orden."
 }
