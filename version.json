@@ -1,6 +1,6 @@
 {
-  "versionName": "1.3",
-  "versionCode": 13,
+  "versionName": "1.4",
+  "versionCode": 14,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Arreglo: la narración ya no muestra el texto técnico de la IA. Si la respuesta llega incompleta, la app la rescata o reintenta sola."
+  "notes": "Arreglo del error 'Muxer error' al exportar: la app reintenta sola con otro método y, si falla, muestra el código exacto del error."
 }
