@@ -1,6 +1,6 @@
 {
-  "versionName": "1.6",
-  "versionCode": 16,
+  "versionName": "1.7",
+  "versionCode": 17,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "El video exportado sale siempre vertical 9:16. La IA ahora ve el video completo (con su audio y texto en pantalla), entiende de qué trata y enseña según eso, no solo pasos de elaboración."
+  "notes": "Nuevo tipo Storytelling. La app va rotando los tipos de video para que no salgan siempre pasos. Todos los guiones cierran con 'comenta YO QUIERO… con nuestro curso online'."
 }
