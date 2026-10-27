@@ -1,6 +1,6 @@
 {
-  "versionName": "1.8",
-  "versionCode": 18,
+  "versionName": "1.9",
+  "versionCode": 19,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Plantillas de voz y subtítulos con nombre. Programación rápida: pega los enlaces, elige plantilla y red, y toca Programar todo."
+  "notes": "Licencias: la app se activa con un código de licencia firmado (con vencimiento opcional). Aviso cuando la licencia está por vencer."
 }
