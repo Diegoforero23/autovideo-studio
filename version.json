@@ -1,6 +1,6 @@
 {
-  "versionName": "0.9",
-  "versionCode": 9,
+  "versionName": "1.0",
+  "versionCode": 10,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Descarga tus videos de TikTok pegando el enlace o desde Compartir › AutoVideo Studio."
+  "notes": "Elige la voz (y escúchala), estilo de subtítulos (TikTok, amarillo, karaoke…), tamaño y posición, y recorte de los lados. El video siempre sale vertical 9:16."
 }
