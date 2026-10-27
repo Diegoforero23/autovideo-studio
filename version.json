@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0",
-  "versionCode": 10,
+  "versionName": "1.1",
+  "versionCode": 11,
   "apk": "AutoVideoStudioAI.apk",
-  "notes": "Elige la voz (y escúchala), estilo de subtítulos (TikTok, amarillo, karaoke…), tamaño y posición, y recorte de los lados. El video siempre sale vertical 9:16."
+  "notes": "Busca y escucha voces de Fish Audio (populares en español y las tuyas). Nuevo botón ▶ Ver para revisar el video terminado dentro de la app."
 }
